@@ -1,0 +1,7 @@
+MoruView
+Copyright (c) 2026 Ryui93. All rights reserved.
+
+MoruView is created and published by Ryui93.
+The author and copyright notices may not be removed or altered.
+
+This software is provided "as is", without warranty of any kind.
