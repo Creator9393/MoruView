@@ -9,7 +9,7 @@ MoruView는 광고와 회원가입 없이 PC에서만 동작하는 가벼운 이
 > Developed by **Ryui93**  
 > Copyright © 2026 Ryui93. All rights reserved.
 
-![MoruView 화면](MoruView-preview.png)
+![MoruView 화면](MoruView_preview.png)
 
 ## 주요 기능
 
