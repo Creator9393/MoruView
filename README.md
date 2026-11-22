@@ -44,7 +44,7 @@ Windows SmartScreen이 표시되면 GitHub 릴리스의 `SHA256SUMS.txt`와 내�
 PowerShell에서 SHA-256 값 확인:
 
 ```powershell
-Get-FileHash .\MoruView-Setup-v1.10.exe -Algorithm SHA256
+Get-FileHash .\MoruView-Setup-v1.10.0.exe -Algorithm SHA256
 ```
 
 ## 주요 단축키
