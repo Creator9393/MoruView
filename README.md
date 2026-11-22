@@ -31,12 +31,14 @@ MoruView는 광고와 회원가입 없이 PC에서만 동작하는 가벼운 이
 
 ## 설치
 
-1. [Releases](../../releases)에서 `MoruView-Setup-v1.10.0.exe`를 내려받습니다. 설치 없이 사용하려면 `MoruView-Portable-v1.10.0.zip`을 선택합니다.
-2. 실행 중인 이전 MoruView를 종료합니다.
-3. 설치파일을 실행합니다. 기존 설치가 있으면 같은 위치에 업데이트됩니다.
-4. 기본 앱 설정 화면을 열었다면 원하는 이미지 확장자를 MoruView로 지정합니다.
+1. [Releases](../../releases)에서 `MoruView-Setup-v1.10.0.exe`를 내려받습니다.
+2. 설치 없이 사용하려면 `MoruView-Portable-v1.10.0.zip`을 선택합니다.
+3. 실행 중인 이전 MoruView를 종료합니다.
+4. 설치파일을 실행합니다. 기존 설치가 있으면 같은 위치에 업데이트됩니다.
+5. 기본 앱 설정 화면을 열었다면 원하는 이미지 확장자를 MoruView로 지정합니다.
 
-개인 제작 앱이라 코드 서명이 적용되지 않았습니다. Windows SmartScreen이 표시되면 GitHub 릴리스의 `SHA256SUMS.txt`와 내려받은 파일의 SHA-256 값이 일치하는지 확인하세요.
+개인 제작 앱이라 코드 서명이 적용되지 않았습니다.
+Windows SmartScreen이 표시되면 GitHub 릴리스의 `SHA256SUMS.txt`와 내려받은 파일의 SHA-256 값이 일치하는지 확인하세요.
 파일 출처와 값이 확인된 경우 `추가 정보 → 실행`을 선택할 수 있습니다.
 
 PowerShell에서 SHA-256 값 확인:
