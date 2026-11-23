@@ -82,6 +82,8 @@ Copyright © 2026 Ryui93. All rights reserved.
 
 ## 마지막으로
 
+MoruView를 써 주셔서 고마워요. 버그나 의견은 Issues에 남겨 주세요!
+
 ## 후원
 
 MoruView가 도움이 됐다면 ☕ [Ko-fi로 후원하기](https://ko-fi.com/creator9393)
