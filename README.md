@@ -79,3 +79,9 @@ Get-FileHash .\MoruView-Setup-v1.10.0.exe -Algorithm SHA256
 
 Copyright © 2026 Ryui93. All rights reserved.  
 별도 허가 없이 프로그램 또는 제작자 정보를 변조해 재배포할 수 없습니다.
+
+## 마지막으로
+
+## 후원
+
+MoruView가 도움이 됐다면 ☕ [Ko-fi로 후원하기](https://ko-fi.com/creator9393)
